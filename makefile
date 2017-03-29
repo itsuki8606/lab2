@@ -6,3 +6,4 @@ compute.o: compute.cpp compute.h
 
 main.o: main.cpp compute.h
 	g++ -c main.cpp
+
